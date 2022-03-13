@@ -1,0 +1,2 @@
+# CodeRant
+Hospital waste management 
